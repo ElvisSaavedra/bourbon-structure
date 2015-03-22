@@ -35,5 +35,5 @@ Entrar a la carpeta raíz y seguir los pasos
   Después de instalar:
 
   ```bash
-  watch haml haml/mypage.html.haml html/mypage.html
+  watch haml index.haml index.html
   ```
